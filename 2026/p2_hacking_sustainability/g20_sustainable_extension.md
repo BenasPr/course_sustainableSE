@@ -11,6 +11,3 @@ identifier: "p2_hacking_sustainability_2026" # Do not change this
 all_projects_page: "../p2_hacking_sustainability" # Do not change this
 ---
 
-On this .md page you can give a brief intro to your project and link to your paper pdf, your published sourcecode or a website that shows off your tool ☀️
-
-If you want to share your video presentation here as well, please upload it to a video platform of your choice and link it here.
